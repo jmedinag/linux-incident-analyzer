@@ -81,7 +81,6 @@ declare -ar MODULES=(
 #######################################                   #preparando ambiente , crear directorio report si no existe -p  si existe no genera error
 prepare_environment()
 {
-
     mkdir -p "${REPORT_DIR}"
 
     check_dependencies

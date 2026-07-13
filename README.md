@@ -1,6 +1,6 @@
 # LIA - Linux Incident Analyzer
 
-```text
+<pre>
        _____
       /    / \
      / : /    \          _____               /\    \
@@ -14,8 +14,7 @@
   \ : \/              \  \ :  /  /        \    \: /  /  /
    \___\               \  \__/  /          \    \/  /  /
                         \______/            \______/   Javier Medina 2026
-```
-
+</pre>
 
 # Overview
 
@@ -79,7 +78,6 @@ No destructive operations.
 ## Lightweight
 
 Built using native Linux tools and Bash scripting.
-
 
 ## Knowledge Separation
 
